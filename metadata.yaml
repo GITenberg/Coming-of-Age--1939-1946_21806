@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '25025'
     url: http://www.gutenberg.org/2009/agents/25025
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/21806#Coming-of-Age--1939-1946
 gutenberg_bookshelf: World War II
 gutenberg_issued: '2007-07-06'
 gutenberg_type: Text
